@@ -1,30 +1,32 @@
 ---
-  title: "Chapter 1"
+  title: ","
 
 ---
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise
+type: TabExercise
 
 xp: 100
 
-key: 563098c2ae
+key: ffa6c910b7
 
 
 
 ```
 
-
-
-`@instructions`
-bxgfg
-
-`@hint`
-dgd
+mjkk
 
 
 
+`@pre_exercise_code`
+```{undefined}
+k
+```
+`@sample_code`
+```{undefined}
+,mmk
+```
 
 
 
